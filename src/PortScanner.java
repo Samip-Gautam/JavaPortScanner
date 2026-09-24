@@ -1,4 +1,4 @@
-import Detection.ServiceDetectorRouter;
+import detection.ServiceDetectorRouter;
 
 import java.io.IOException;
 import java.net.ConnectException;

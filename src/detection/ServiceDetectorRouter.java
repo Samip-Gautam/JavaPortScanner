@@ -1,4 +1,4 @@
-package Detection;
+package detection;
 
 import java.util.List;
 
