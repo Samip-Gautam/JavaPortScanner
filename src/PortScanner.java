@@ -24,7 +24,7 @@ public class PortScanner {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Your Host?");
+        System.out.println("Host: ");
         host = sc.nextLine();
 
         System.out.println("Start Range:");
